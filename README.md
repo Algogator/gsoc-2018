@@ -22,22 +22,22 @@ https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbce
 
 Primary deliverables
 ------
-Done:
-Add back-end support for Ipsilon authentication
-Push the application upstream
-Integrate fedmsg publishing
-Create Fedora Badge rule file to automatically award badge
+**Done:**
+* Add back-end support for Ipsilon authentication
+* Push the application upstream
+* Integrate fedmsg publishing
+* Create Fedora Badge rule file to automatically award badge
 
-TODO:
-Create Fedora Badge rule file to automatically award badge
+**TODO:**
+* Create Fedora Badge rule file to automatically award badge
 
 Secondary deliverables
 ------
-Done:
-Explore major social media APIs (for example, Twitter, Facebook, Reddit) to allow sharing on social networks
+**Done:**
+* Explore major social media APIs (for example, Twitter, Facebook, Reddit) to allow sharing on social networks
 
-TODO:
-Add support for video messages
-Add support for emojis
+**TODO:**
+* Add support for video messages
+* Add support for emojis
 
 
