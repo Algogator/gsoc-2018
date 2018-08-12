@@ -11,7 +11,8 @@ https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbce
     My name is Anna, you might know me as algogator on IRC
 
 2. What was the problem/challenge/feature/goal you set out to solve that defined your project.
-*Open source communities work because of the time and effort put in by volunteers and a heartfelt thank you or pat on the back can go a long way. The Happiness Packets is an open source platform to spread gratitude and appreciation among contributors in the community. For Fedora appreciation week, setting up Fedora Happiness Packets will encourage and make it easier for people to send positive feedback to their peers (anonymously if they like). Gratitude is a muscle that should be exercised regularly and the Fedora Happiness Packets will aid that. 
+    
+    Open source communities work because of the time and effort put in by volunteers and a heartfelt thank you or pat on the back can go a long way. The Happiness Packets is an open source platform to spread gratitude and appreciation among contributors in the community. For Fedora appreciation week, setting up Fedora Happiness Packets will encourage and make it easier for people to send positive feedback to their peers (anonymously if they like). Gratitude is a muscle that should be exercised regularly and the Fedora Happiness Packets will aid that. 
 
 3. How did you solve it?  What was the process like?  What worked well, what didn't?  What did you learn?
 
