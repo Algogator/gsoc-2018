@@ -5,6 +5,7 @@
 * Commits: https://pagure.io/fedora-commops/fedora-happiness-packets/commits?author=ms.annaphilips@gmail.com
 * Bonus commit:
 https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbcef4bb26365d4e828f
+* Blog posts: https://blog.annaphilips.com/category/gsoc/feed/
 
 1. Who are you and how did you hear about Fedora?  What is something personal or interesting about you?
 
