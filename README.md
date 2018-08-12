@@ -3,6 +3,7 @@
 * Project link: https://pagure.io/fedora-commops/fedora-happiness-packets/
 * Site: https://happinesspackets.fedorainfracloud.org/
 * Commits: https://pagure.io/fedora-commops/fedora-happiness-packets/commits?author=ms.annaphilips@gmail.com
+* Pull Requests: https://pagure.io/fedora-commops/fedora-happiness-packets/pull-requests?status=False&author=algogator
 * Bonus commit:
 https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbcef4bb26365d4e828f
 * Blog posts: https://blog.annaphilips.com/category/gsoc/feed/
