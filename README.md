@@ -12,13 +12,12 @@ https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbce
 
 2. What was the problem/challenge/feature/goal you set out to solve that defined your project.
     
-    Open source communities work because of the time and effort put in by volunteers and a heartfelt thank you can go a long way. We all know the benefits of praticising gratitue regularly yet we don't do it. The Happiness Packets is an open source platform to spread gratitude and appreciation among contributors in the community. For Fedora appreciation week, setting up Fedora Happiness Packets will encourage and make it easier for people to send positive feedback to their peers (anonymously if they like). Gratitude is a muscle that should be exercised regularly and the Fedora Happiness Packets will aid that. 
+    Open source communities work because of the time and effort put in by volunteers and a heartfelt thank you can go a long way. We all know the benefits of praticising gratitue regularly yet we don't do it (https://greatergood.berkeley.edu/article/item/how_gratitude_can_transform_your_workplace). One of the reason why this maybe is because people are self conscious of the way they come across to anohter person (http://journals.sagepub.com/doi/full/10.1177/0956797618772506) The Happiness Packets is an open source platform to spread gratitude and appreciation among contributors in the community. For Fedora appreciation week, setting up Fedora Happiness Packets will encourage and make it easier for people to send positive feedback to their peers (anonymously if they like). Gratitude is a muscle that should be exercised regularly and the Fedora Happiness Packets will aid that. 
 
 3. How did you solve it?  What was the process like?  What worked well, what didn't?  What did you learn?
 
-4. Where can we find your final work (link to this project and your submission to GSoC)
-
-5. What's next for you? In Fedora? In general?
+4. What's next for you? In Fedora? In general?
+   I plan on working on the feedback we received at FLOCK 2018 to have the site ready for Fedora Appreciation Week and in the mean time 
 
 Primary deliverables
 ------
