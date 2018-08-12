@@ -20,3 +20,26 @@ https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbce
 
 5. What's next for you? In Fedora? In general?
 
+##Done
+
+Primary deliverables
+------
+Add back-end support for Ipsilon authentication
+Push the application upstream
+Integrate fedmsg publishing
+Create Fedora Badge rule file to automatically award badge
+
+Secondary deliverables
+------
+Explore major social media APIs (for example, Twitter, Facebook, Reddit) to allow sharing on social networks
+
+##TODO
+
+Primary deliverables
+------
+Create Fedora Badge rule file to automatically award badge
+
+Secondary deliverables
+------
+Add support for video messages
+Add support for emojis
