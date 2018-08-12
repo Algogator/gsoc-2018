@@ -29,7 +29,8 @@ Secondary deliverables
 ---
 1. Who are you and how did you hear about Fedora?  What is something personal or interesting about you?
 
-    My name is Anna, you might know me as algogator on IRC
+    My name is Anna, you might know me as algogator on IRC, I study Computer Science and I'm also the President of the Python User Group in my university. The tweet that started my GSoC journey with Fedora was this: https://twitter.com/BeePadalkar/status/975683830312038401 
+    I have used Fedora before but I never contributed code to it till now. 
 
 2. What was the problem/challenge/feature/goal you set out to solve that defined your project.
     
