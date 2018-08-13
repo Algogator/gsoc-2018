@@ -11,10 +11,9 @@ https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbce
 Primary deliverables
 ------
 **Done:**
-* Add back-end support for Ipsilon authentication
+* Add back-end support for Ipsilon authentication - https://pagure.io/fedora-commops/fedora-happiness-packets/c/23227b73439cb3b0c306a320eb7c883250b934e6?branch=master
 * Push the application upstream
-* Integrate fedmsg publishing
-* Create Fedora Badge rule file to automatically award badge
+* Integrate fedmsg publishing - https://pagure.io/fedora-commops/fedora-happiness-packets/c/c0b7d04dffcc478ebf73c66f7c46cd9ea2fd6c77?branch=master
 
 **TODO:**
 * Create Fedora Badge rule file to automatically award badge
@@ -22,7 +21,7 @@ Primary deliverables
 Secondary deliverables
 ------
 **Done:**
-* Explore major social media APIs (for example, Twitter, Facebook, Reddit) to allow sharing on social networks
+* Explore major social media APIs (for example, Twitter, Facebook, Reddit) to allow sharing on social networks - https://pagure.io/fedora-commops/fedora-happiness-packets/c/b49f7df96b67fe73b78bad9263d7eab6af030ee4?branch=master
 
 **TODO:**
 * Add support for video messages
