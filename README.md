@@ -16,6 +16,7 @@ Primary deliverables
 
 **TODO:**
 * Create Fedora Badge rule file to automatically award badge - https://pagure.io/fedora-badges/issue/627
+
 Secondary deliverables
 ------
 **Done:**
