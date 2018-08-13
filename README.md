@@ -3,7 +3,6 @@
 * Project link: https://pagure.io/fedora-commops/fedora-happiness-packets/
 * Site: https://happinesspackets.fedorainfracloud.org/
 * Commits: https://pagure.io/fedora-commops/fedora-happiness-packets/commits?author=ms.annaphilips@gmail.com
-* Pull Requests: https://pagure.io/fedora-commops/fedora-happiness-packets/pull-requests?status=False&author=algogator
 * Bonus commit:
 https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbcef4bb26365d4e828f
 * Blog posts: https://blog.annaphilips.com/category/gsoc/feed/
@@ -11,8 +10,8 @@ https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbce
 Primary deliverables
 ------
 **Done:**
-* Add back-end support for Ipsilon authentication - https://pagure.io/fedora-commops/fedora-happiness-packets/c/23227b73439cb3b0c306a320eb7c883250b934e6?branch=master
 * Push the application upstream
+* Add back-end support for Ipsilon authentication - https://pagure.io/fedora-commops/fedora-happiness-packets/c/23227b73439cb3b0c306a320eb7c883250b934e6?branch=master
 * Integrate fedmsg publishing - https://pagure.io/fedora-commops/fedora-happiness-packets/c/c0b7d04dffcc478ebf73c66f7c46cd9ea2fd6c77?branch=master
 
 **TODO:**
