@@ -43,8 +43,8 @@ Secondary deliverables
 ---
 1. Who are you and how did you hear about Fedora?  What is something personal or interesting about you?
 
-    My name is Anna, you might know me as algogator on IRC, I study Computer Science and I'm also the President of the Python User Group in my university. The tweet that started my GSoC journey with Fedora was this: https://twitter.com/BeePadalkar/status/975683830312038401 
-    I have used Fedora before but I never contributed code to it till now. 
+    My name is Anna, you might know me as algogator on IRC, I study Computer Science and I'm also the President of the Python User Group in my university. I have used Fedora before but I never contributed code to it till now. The tweet that started my GSoC journey with Fedora was this: https://twitter.com/BeePadalkar/status/975683830312038401 
+    
 
 2. What was the problem/challenge/feature/goal you set out to solve that defined your project.
     
@@ -60,13 +60,13 @@ Secondary deliverables
 
    Spent final weeks mostly deplying everything to production and catching up on tickets, getting ready for FLOCK and working on Usability testing at FLOCK. We gathered a lot of good feadback on what can be improved before launch at Fedora Appreciation Week. We had 1 on 1 interviews with attendees. Writing reports.
     
-What worked well:
+   What worked well:
 
-   Having two awesome mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, Getting my code reviewed for the first time, collaborating remotely with people in different time zones and writing blog posts.
+      Having two awesome mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, Getting my code reviewed for the first time, collaborating remotely with people in different time zones and writing blog posts.
     
-What I could have done differently:
+   What I could have done differently:
 
-   During the commmunity bonding period I restricted my interactions to the CommOps team, when I should have been bonding with with the wider community, especially the infra and design team, since I had to open some tickets with them. 
+      During the commmunity bonding period I restricted my interactions to the CommOps team, when I should have been bonding with with the wider community, especially the infra and design team, since I had to open some tickets with them. 
     
 
 4. What's next for you? In Fedora? In general?
