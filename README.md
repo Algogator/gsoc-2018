@@ -45,7 +45,7 @@ Secondary deliverables
 
     My name is Anna, you might know me as algogator on IRC, I study Computer Science at UTA and I'm also the President of the Python User Group (and PyLadies) at my university. I came across Fedora while I was researching distros to install on my brand new laptop during my freshman year in college but I never contributed code to it till now and I have this tweet to thank for it:  https://twitter.com/BeePadalkar/status/975683830312038401 
     
-    Fun fact: I swam underenath Jog Falls (second highest plunge waterfall in India)
+    Fun fact: I swam underneath Jog Falls (second highest plunge waterfall in India)
     
 2. What was the problem/challenge/feature/goal you set out to solve that defined your project.
     
@@ -55,11 +55,11 @@ Secondary deliverables
  
    We wanted to integrate Happiness Packets into the Fedora ecosystem to make it easier for Fedora contributors to submit Happiness Packets. One way we would do this is to allow users to login with their FAS (Fedora Accounts System) IDs and create a new Fedora badge to reward contributors who send a Happiness Packet. 
  
-   During community bonding period I did some reading up on Django, not a lot of Fedora projects use Django (Flask seems to be the standard), and attended the weekly CommOps meeting. I was rushed for the first evaluation but made all the contributions in time luckily. When we made the proposal, I was adviced to not bite off more than I could chew and to leave some days for "unexpected events", which I'm grateful now I did. 
+   During community bonding period I did some reading up on Django, not a lot of Fedora projects use Django (Flask seems to be the standard), and attended the weekly CommOps meeting. I was rushed for the first evaluation but made all the contributions in time luckily. When we made the proposal, I was adviced to not bite off more than I could chew and to leave some buffer days for "unexpected events", which I'm glad I did. 
 
-   The second half I spent mostly on fedmsg, just reading the documents and learning it. 
+   The second half of GSoC, went a bit more smoothly, I kind of knew what to expect now and how to better organize my time, .
 
-   Spent the final weeks mostly deploying everything to production and catching up on tickets, writing reports, running to Houston for the VISA and usability testing at FLOCK where we did 1 on 1 interviews with attendees. We gathered a lot of good feadback on what can be improved before launch at Fedora Appreciation Week.
+   Spent the final weeks mostly deploying everything to production and catching up on tickets, writing reports, running to Houston for the VISA and usability testing at FLOCK where we did 1 on 1 interviews with attendees. We gathered feadback on what can be improved before launch at Fedora Appreciation Week.
    
    What worked well:
 
@@ -67,8 +67,8 @@ Secondary deliverables
     
    What I could have done differently:
 
-      During the commmunity bonding period I restricted my interactions to the CommOps team, when I should have been bonding with the wider community, especially the infra and design team, since I had to open some tickets with them. 
-    
+      During the commmunity bonding period I restricted my interactions to the CommOps team, when I should have been bonding with the wider community, especially the infra and design team, since I had to open some tickets with them. I wish I had done a mini usability testing session before GSoC started, the one we did at FLOCK was eye-opening and there were a lot of good ideas I would have liked to work on for the summer.  
+      
 4. What's next for you? In Fedora? In general?
 
    I plan to work on the feedback we received at FLOCK 2018, to have the site ready for Fedora Appreciation Week and in the mean time submit a proposal for Fedora Women's Day.
