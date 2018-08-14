@@ -60,14 +60,13 @@ Secondary deliverables
 
    Spent final weeks mostly deplying everything to production and catching up on tickets, getting ready for FLOCK and working on Usability testing at FLOCK. We gathered a lot of good feadback on what can be improved before launch at Fedora Appreciation Week. We had 1 on 1 interviews with attendees. Writing reports.
     
- What worked well:
-     
-Having two awesome mentors:
-    Having two mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, collaborating remotely with people in different time zones and writing emails. 
+What worked well:
+
+   Having two mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, reviewing my code, collaborating remotely with people in different time zones and writing blog posts. 
     
 What I could have done differently:
 
-   I restricted my interactions with the CommOps team, when I should have been pro active with the infra and design team, since I had some tickets dependent on them. 
+   I restricted my interactions with the CommOps team, when I should have been more pro-active with the infra and design team, since I had opened some tickets with them. 
     
 
 4. What's next for you? In Fedora? In general?
