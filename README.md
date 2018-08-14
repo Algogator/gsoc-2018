@@ -62,11 +62,11 @@ Secondary deliverables
     
 What worked well:
 
-   Having two mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, reviewing my code, collaborating remotely with people in different time zones and writing blog posts. 
+   Having two awesome mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, Getting my code reviewed for the first time, collaborating remotely with people in different time zones and writing blog posts.
     
 What I could have done differently:
 
-   I restricted my interactions with the CommOps team, when I should have been more pro-active with the infra and design team, since I had opened some tickets with them. 
+   During the commmunity bonding period I restricted my interactions to the CommOps team, when I should have been bonding with with the wider community, especially the infra and design team, since I had to open some tickets with them. 
     
 
 4. What's next for you? In Fedora? In general?
