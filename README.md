@@ -52,7 +52,7 @@ Secondary deliverables
 
 3. How did you solve it?  What was the process like?  What worked well, what didn't?  What did you learn?
  
- We wanted to integrate Happiness Packets into the Fedora ecosystem to make it easier for Fedora contributors to submit Happiness Packets. One way we would do this is to allow users to login with their FAS (Fedora Accounts System) IDs and create a new Fedora badge to reward contributors who send a Happiness Packet. 
+   We wanted to integrate Happiness Packets into the Fedora ecosystem to make it easier for Fedora contributors to submit Happiness Packets. One way we would do this is to allow users to login with their FAS (Fedora Accounts System) IDs and create a new Fedora badge to reward contributors who send a Happiness Packet. 
  
    During community bonding period I did some reading up on Django, not a lot of Fedora projects use Django (Flask seems to be the standard) and the only reliable plugin to implement OpenID connect was mozilla oidc ... which had it's own problem. My official starting date started a week late, so I was rushing for the first evaluation but made all the contributions in time luckily. When we made the proposal, I was adviced to not bite off more than I could chew and to leave some days for some event which i was grateful now I did. 
 
@@ -71,5 +71,5 @@ What I could have done differently:
     
 
 4. What's next for you? In Fedora? In general?
-   I plan on working on the feedback we received at FLOCK 2018 to have the site ready for Fedora Appreciation Week and in the mean time 
+   I plan on working on the feedback we received at FLOCK 2018 to have the site ready for Fedora Appreciation Week and in the mean time I am planning on submitting a proposal for Fedora Women's Day.
 
