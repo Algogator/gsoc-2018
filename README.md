@@ -38,8 +38,8 @@ Secondary deliverables
    https://pagure.io/fedora-commops/fedora-happiness-packets/c/6b2c4ea19b05773aca1b684fb7d5b212533bca2d?branch=master
 
 **TODO:**
-* Add support for video messages
-* Add support for emojis
+* Add support for video messages - https://pagure.io/fedora-commops/fedora-happiness-packets/issue/29
+* Add support for emojis - https://pagure.io/fedora-commops/fedora-happiness-packets/issue/30
 ---
 1. Who are you and how did you hear about Fedora?  What is something personal or interesting about you?
 
