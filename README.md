@@ -46,7 +46,7 @@ Secondary deliverables
 
     My name is Anna, you might know me as algogator on IRC, I study Computer Science at UTA and I'm also the President of the Python User Group (and PyLadies) at my university. I came across Fedora while I was researching distros to install on my brand new laptop during my freshman year in college but I never contributed code to it till now and I have this tweet to thank for it:  https://twitter.com/BeePadalkar/status/975683830312038401 
     
-    Fun fact: I swam underneath Jog Falls (second highest plunge waterfall in India)
+    **Fun fact:** I swam underneath Jog Falls (second highest plunge waterfall in India)
     
 2. What was the problem/challenge/feature/goal you set out to solve that defined your project.
     
@@ -62,11 +62,11 @@ Secondary deliverables
 
    Spent the final weeks mostly deploying everything to production and catching up on tickets, writing reports, running to Houston for the VISA and usability testing at FLOCK where we did 1 on 1 interviews with attendees. We gathered feedback on what can be improved before launch at Fedora Appreciation Week.
    
-   What worked well:
+   **What worked well:**
 
       Having two awesome mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, Getting my code reviewed for the first time, collaborating remotely with people in different time zones and writing blog posts.
     
-   What I could have done differently:
+   **What I could have done differently:**
 
       During the community bonding period I restricted my interactions to the CommOps team, when I should have been bonding with the wider community, especially the infra and design team, since I had to open some tickets with them. I wish I had done a mini usability testing session before GSoC started, the one we did at FLOCK was eye-opening and there were a lot of good ideas I would have liked to work on for the summer.  
       
