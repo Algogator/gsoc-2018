@@ -6,6 +6,7 @@
 * Bonus commit:
 https://github.com/Algogator/mozilla-django-oidc/commit/106eea57735af0fd0e5bfbcef4bb26365d4e828f
 * Blog posts: https://blog.annaphilips.com/category/gsoc/feed/
+* FLOCK 2018: https://blog.annaphilips.com/flock-2018/
 
 Primary deliverables
 ------
