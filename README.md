@@ -58,7 +58,7 @@ Secondary deliverables
  
    During community bonding period I did some reading up on Django, not a lot of Fedora projects use Django (Flask seems to be the standard), and attended the weekly CommOps meeting. I was rushed for the first evaluation but made all the contributions in time luckily. When we made the proposal, I was advised to not bite off more than I could chew and to leave some buffer days for "unexpected events", which I'm glad I did. 
 
-   The second half of GSoC, went a bit more smoothly, I knew what was expected of me, planned my time and work better and I knew where to search for answers. I explored the Django ecosystem a bit more with Postgres, Nginx and Gunicorn. 
+   The second half of GSoC, went a bit more smoothly, I knew what was expected of me, planned my time and work better and I knew where to search for answers. Worked mostly on the deceivingly simple fedmsg and  explored Postgres, Nginx and Gunicorn. 
 
    Spent the final weeks mostly deploying everything to production and catching up on tickets, writing reports, running to Houston for the VISA and usability testing at FLOCK where we did 1 on 1 interviews with attendees. We gathered feedback on what can be improved before launch at Fedora Appreciation Week.
    
