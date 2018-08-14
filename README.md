@@ -27,7 +27,13 @@ Primary deliverables
 Secondary deliverables
 ------
 **Done:**
-* Explore major social media APIs (for example, Twitter, Facebook, Reddit) to allow sharing on social networks - https://pagure.io/fedora-commops/fedora-happiness-packets/c/b49f7df96b67fe73b78bad9263d7eab6af030ee4?branch=master
+* Explore major social media APIs (for example, Twitter, Facebook, Reddit) to allow sharing on social networks
+
+   https://pagure.io/fedora-commops/fedora-happiness-packets/c/b49f7df96b67fe73b78bad9263d7eab6af030ee4?branch=master
+   
+   https://pagure.io/fedora-commops/fedora-happiness-packets/c/22c8a87bc8b6acc3376239af1942f644a7dab1a3?branch=master
+   
+   https://pagure.io/fedora-commops/fedora-happiness-packets/c/6b2c4ea19b05773aca1b684fb7d5b212533bca2d?branch=master
 
 **TODO:**
 * Add support for video messages
