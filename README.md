@@ -11,7 +11,14 @@ Primary deliverables
 ------
 **Done:**
 * Push the application upstream
-* Add back-end support for Ipsilon authentication - https://pagure.io/fedora-commops/fedora-happiness-packets/c/23227b73439cb3b0c306a320eb7c883250b934e6?branch=master
+* Add back-end support for Ipsilon authentication: 
+
+   https://pagure.io/fedora-commops/fedora-happiness-packets/c/23227b73439cb3b0c306a320eb7c883250b934e6?branch=master
+   
+   https://pagure.io/fedora-commops/fedora-happiness-packets/c/8127e6668dbefd71f316c67bf8dbd9a535aff759?branch=master
+   
+   https://pagure.io/fedora-commops/fedora-happiness-packets/c/21973341c838145f5a87c4e90257396d4d76f2ce?branch=master
+   
 * Integrate fedmsg publishing - https://pagure.io/fedora-commops/fedora-happiness-packets/c/c0b7d04dffcc478ebf73c66f7c46cd9ea2fd6c77?branch=master
 
 **TODO:**
