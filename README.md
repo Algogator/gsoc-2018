@@ -63,7 +63,7 @@ Secondary deliverables
  What worked well:
      
 Having two awesome mentors:
-    Having two mentors who are active in the community with "friends" on the inside can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and were always patient with my questions on IRC. This past three months I have been pushed out of my comfort zone. Giving my first talk at a conference, collaborating remotely with people in different time zones, writing emails. 
+    Having two mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, collaborating remotely with people in different time zones and writing emails. 
     
 What I could have done differently:
 
