@@ -55,20 +55,21 @@ Secondary deliverables
  
    We wanted to integrate Happiness Packets into the Fedora ecosystem to make it easier for Fedora contributors to submit Happiness Packets. One way we would do this is to allow users to login with their FAS (Fedora Accounts System) IDs and create a new Fedora badge to reward contributors who send a Happiness Packet. 
  
-   During community bonding period I did some reading up on Django, not a lot of Fedora projects use Django (Flask seems to be the standard) and the only reliable plugin to implement OpenID connect was mozilla oidc ... which had it's own problem. My official starting date started a week late, so I was rushing for the first evaluation but made all the contributions in time luckily. When we made the proposal, I was adviced to not bite off more than I could chew and to leave some days for some event which i was grateful now I did. 
+   During community bonding period I did some reading up on Django, not a lot of Fedora projects use Django (Flask seems to be the standard), and attended the weekly CommOps meeting. I was rushed for the first evaluation but made all the contributions in time luckily. When we made the proposal, I was adviced to not bite off more than I could chew and to leave some days for "unexpected events", which I'm grateful now I did. 
 
    The second half I spent mostly on fedmsg, just reading the documents and learning it. 
 
-   Spent final weeks mostly deplying everything to production and catching up on tickets, getting ready for FLOCK and working on Usability testing at FLOCK. We gathered a lot of good feadback on what can be improved before launch at Fedora Appreciation Week. We had 1 on 1 interviews with attendees. Writing reports.
-    
+   Spent the final weeks mostly deploying everything to production and catching up on tickets, writing reports, running to Houston for the VISA and usability testing at FLOCK where we did 1 on 1 interviews with attendees. We gathered a lot of good feadback on what can be improved before launch at Fedora Appreciation Week.
+   
    What worked well:
 
       Having two awesome mentors who are active in the community with "friends" on the inside and can direct you to people who can help you if they can't. Jona and Bee brought their own unique style of mentoring which helped me at various stages of GSoC. The weekly calls kept me on my toes and they were always patient with my questions on IRC. These past three months I have been pushed out of my comfort zone: giving my first talk at a conference, Getting my code reviewed for the first time, collaborating remotely with people in different time zones and writing blog posts.
     
    What I could have done differently:
 
-      During the commmunity bonding period I restricted my interactions to the CommOps team, when I should have been bonding with with the wider community, especially the infra and design team, since I had to open some tickets with them. 
+      During the commmunity bonding period I restricted my interactions to the CommOps team, when I should have been bonding with the wider community, especially the infra and design team, since I had to open some tickets with them. 
     
 4. What's next for you? In Fedora? In general?
-   I plan on working on the feedback we received at FLOCK 2018 to have the site ready for Fedora Appreciation Week and in the mean time I am planning on submitting a proposal for Fedora Women's Day.
+
+   I plan to work on the feedback we received at FLOCK 2018, to have the site ready for Fedora Appreciation Week and in the mean time submit a proposal for Fedora Women's Day.
 
