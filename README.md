@@ -42,13 +42,8 @@ Secondary deliverables
 * Add support for video messages - https://pagure.io/fedora-commops/fedora-happiness-packets/issue/29
 * Add support for emojis - https://pagure.io/fedora-commops/fedora-happiness-packets/issue/30
 ---
-1. Who are you and how did you hear about Fedora?  What is something personal or interesting about you?
-
-    My name is Anna, you might know me as algogator on IRC, I study Computer Science at UTA and I'm also the President of the Python User Group (and PyLadies) at my university. I came across Fedora while I was researching distros to install on my brand new laptop during my freshman year in college but I never contributed code to it till now and I have this tweet to thank for it:  https://twitter.com/BeePadalkar/status/975683830312038401 
     
-    **Fun fact:** I swam underneath Jog Falls (second highest plunge waterfall in India)
-    
-2. What was the problem/challenge/feature/goal you set out to solve that defined your project.
+1. What was the problem/challenge/feature/goal you set out to solve that defined your project.
     
     Open source communities work because of the time and effort put in by volunteers and a heartfelt thank-you can go a long way. We all know the benefits of practicing gratitude (even in the workplace) yet we don't do it as often as we should. A recent study shows that people underestimate the impact their positive appreciation has on its recipients; they feel too awkward or question their competency in delivering their message of gratitude to the other person, and this in turn could discourage them from doing it in the first place. This is where Happiness Packets comes in, Fedora Happiness Packets is an open source platform to spread gratitude and appreciation among contributors in the community. For Fedora appreciation week, setting up Fedora Happiness Packets will encourage and make it easier for people to send positive feedback to their peers (anonymously if they like). 
 
